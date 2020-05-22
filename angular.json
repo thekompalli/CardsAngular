@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "projectCards"
+    }
+  },
+  "defaultProject": "projectCards",
+  "cli": {
+    "analytics": "6920972c-a5e2-49c4-be2e-d21f83a08ebd"
+  }
 }
